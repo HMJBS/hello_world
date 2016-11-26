@@ -7,6 +7,3 @@ client.send(messege,0,messege.length,4000,"192.168.11.23",
     }
 );
 
-//What the fuck this is too difficult.
-//?
-//YOU ARE ENGLISH WITH SKIRT
